@@ -1,0 +1,10 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache files (usually not needed on GitHub)
+__pycache__/
+*.pyc
+
+# Render/Streamlit essential file
+requirements.txt
